@@ -1,0 +1,14 @@
+[{
+    "model": "familybudget.transactiontype",
+    "pk": 1,
+    "fields": {
+      "description": "INCOME"
+    }
+  },
+  {
+    "model": "familybudget.transactiontype",
+    "pk": 2,
+    "fields": {
+      "description": "EXPENSE"
+    }
+  }]

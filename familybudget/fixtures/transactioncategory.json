@@ -1,0 +1,138 @@
+[
+  {
+    "model": "familybudget.transactioncategory",
+    "pk": 1,
+    "fields": {
+      "description": "HOUSING",
+      "type_id": "2"
+    }
+  },
+  {
+    "model": "familybudget.transactioncategory",
+    "pk": 2,
+    "fields": {
+      "description": "TRANSPORTATION",
+      "type_id": "2"
+    }
+  },
+  {
+    "model": "familybudget.transactioncategory",
+    "pk": 3,
+    "fields": {
+      "description": "FOOD",
+      "type_id": "2"
+    }
+  },
+  {
+    "model": "familybudget.transactioncategory",
+    "pk": 4,
+    "fields": {
+      "description": "UTILITIES",
+      "type_id": "2"
+    }
+  },
+  {
+    "model": "familybudget.transactioncategory",
+    "pk": 5,
+    "fields": {
+      "description": "INSURANCE",
+      "type_id": "2"
+    }
+  },
+  {
+    "model": "familybudget.transactioncategory",
+    "pk": 6,
+    "fields": {
+      "description": "MEDICAL & HEALTHCARE",
+      "type_id": "2"
+    }
+  },
+  {
+    "model": "familybudget.transactioncategory",
+    "pk": 7,
+    "fields": {
+      "description": "SAVING, INVESTING, & DEBT PAYMENTS",
+      "type_id": "2"
+    }
+  },
+  {
+    "model": "familybudget.transactioncategory",
+    "pk": 8,
+    "fields": {
+      "description": "PERSONAL SPENDING",
+      "type_id": "2"
+    }
+  },
+  {
+    "model": "familybudget.transactioncategory",
+    "pk": 9,
+    "fields": {
+      "description": "RECREATION & ENTERTAINMENT",
+      "type_id": "2"
+    }
+  },
+  {
+    "model": "familybudget.transactioncategory",
+    "pk": 10,
+    "fields": {
+      "description": "MISCELLANEOUS ",
+      "type_id": "2"
+    }
+  },
+  {
+    "model": "familybudget.transactioncategory",
+    "pk": 11,
+    "fields": {
+      "description": "WAGES",
+      "type_id": "1"
+    }
+  },
+  {
+    "model": "familybudget.transactioncategory",
+    "pk": 12,
+    "fields": {
+      "description": "SALARY",
+      "type_id": "1"
+    }
+  },
+  {
+    "model": "familybudget.transactioncategory",
+    "pk": 13,
+    "fields": {
+      "description": "COMMISION",
+      "type_id": "1"
+    }
+  },
+  {
+    "model": "familybudget.transactioncategory",
+    "pk": 14,
+    "fields": {
+      "description": "INTEREST",
+      "type_id": "1"
+    }
+  },
+  {
+    "model": "familybudget.transactioncategory",
+    "pk": 15,
+    "fields": {
+      "description": "SELL",
+      "type_id": "1"
+    }
+  },
+  {
+    "model": "familybudget.transactioncategory",
+    "pk": 16,
+    "fields": {
+      "description": "GIFTS",
+      "type_id": "1"
+    }
+  },
+  {
+    "model": "familybudget.transactioncategory",
+    "pk": 17,
+    "fields": {
+      "description": "GOVERMENT",
+      "type_id": "1"
+    }
+  }
+]

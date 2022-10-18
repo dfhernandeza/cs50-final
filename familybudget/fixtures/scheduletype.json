@@ -1,0 +1,44 @@
+[
+  {
+    "model": "familybudget.scheduletype",
+    "pk": 1,
+    "fields": {
+      "type": "OM",
+      "description": "MONTHLY"
+    }
+  },
+  {
+    "model": "familybudget.scheduletype",
+    "pk": 2,
+    "fields": {
+      "type": "DOW",
+      "description": "WEEKLY"
+    }
+  },
+  {
+    "model": "familybudget.scheduletype",
+    "pk": 3,
+    "fields": {
+      "type": "OY",
+      "description": "YEARLY"
+    }
+  },
+  {
+    "model": "familybudget.scheduletype",
+    "pk": 4,
+    "fields": {
+      "type": "U",
+      "description": "UNIQUE DATE"
+    }
+  },
+  {
+    "model": "familybudget.scheduletype",
+    "pk": 5,
+    "fields": {
+      "type": "R",
+      "description": "RANGE"
+    }
+  }
+ 
+ 
+]

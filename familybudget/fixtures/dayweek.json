@@ -1,0 +1,49 @@
+[{
+    "model": "familybudget.dayweek",
+    "pk": 0,
+    "fields": {
+      "day": "MONDAY"
+    }
+  },
+  {
+    "model": "familybudget.dayweek",
+    "pk": 1,
+    "fields": {
+      "day": "TUESDAY"
+    }
+  },
+  {
+    "model": "familybudget.dayweek",
+    "pk": 2,
+    "fields": {
+      "day": "WEDNESDAY"
+    }
+  },
+  {
+    "model": "familybudget.dayweek",
+    "pk": 3,
+    "fields": {
+      "day": "THURSDAY"
+    }
+  },
+  {
+    "model": "familybudget.dayweek",
+    "pk": 4,
+    "fields": {
+      "day": "FRIDAY"
+    }
+  },
+  {
+    "model": "familybudget.dayweek",
+    "pk": 5,
+    "fields": {
+      "day": "SATURDAY"
+    }
+  },
+  {
+    "model": "familybudget.dayweek",
+    "pk": 6,
+    "fields": {
+      "day": "SUNDAY"
+    }
+  }]
